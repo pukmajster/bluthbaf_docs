@@ -1,6 +1,6 @@
 # Bluthbaf
 
-A simple Vampire Survivors-inspired 2D game. I've been learning bits of game-dev throughout the years, so I
+A simple Vampire Survivors-inspired 2D game, developed in GameMaker Studio 2. I've been learning bits of game-dev throughout the years, so I
 gave myself the goal of actually making a game myself - for fun! This challange took about 17 days to "complete".
 
 Note that the actual source code is private due to licensing.
